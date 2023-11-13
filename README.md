@@ -1,4 +1,5 @@
-<h1 align='center'>Hi there! <img src="https://elbargo.ru/assets/img/wave.gif" width="50px"></h1>
+<h1 align='center'>Hi there! </h1>
+![Hi there!](https://github.com/oscarhandsome/oscarhandsome/blob/main/wave.gif){:height="50px" width="50px"}
 <h3 align='center'>I'm Bagaviyev Askhat, Full-Stack developer from 🇰🇿 Kazakhstan.</h3>
 <h4 align='center'> Below is some stuff I like and often use</h4>
 

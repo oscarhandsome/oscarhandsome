@@ -50,3 +50,13 @@
     <img align="center" src="https://github-readme-stats-self-five.vercel.app/api?username=oscarhandsome&theme=blue-green&count_private=true" alt="Pascals GitHub Stats" />
   </a>
 </p>
+
+<hr> 
+<h5 align="center">Contributions:</h5>
+<p align="center"> 
+  <a href="https://opencollective.com/oscarhandsome">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="30px" />
+    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="30px" /> -->
+  </a>
+
+</p>

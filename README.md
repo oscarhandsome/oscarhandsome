@@ -51,6 +51,23 @@
   </a>
 </p>
 
+<h5>Certifications:</h5>
+<ul> 
+<li><a href="https://www.udemy.com/certificate/UC-0a4deaba-4caf-463b-a801-8360b1fc16ff">Udemy Course - Node.js, Express, MongoDB & More: The Complete Bootcamp 2023</a> - 2023-04-03</li>
+<li><a href="https://www.udemy.com/certificate/UC-dc95bbf8-d09b-48c1-8cbb-904e2f60d328/
+">Udemy Course - React + Redux - Professional Development</a> - 2023-02-13</li>
+<li><a href="https://www.udemy.com/certificate/UC-44286bca-c283-4aa6-87b1-4bf514cbd58e/">Udemy Course - Crash Course: Build a Full-Stack Web App in a Weekend!</a> - 2023-01-21</li>
+<li><a href="https://www.udemy.com/certificate/UC-cb73c76f-b63d-4e4b-a082-ff1d7a87e8bc/
+">Udemy Course - Nuxt.js 2 - Vue.js on Steroids</a> - 2023-01-16</li>
+<li><a href="https://www.udemy.com/certificate/UC-P7Z7DLK1/">Udemy Course 'Yii2 from Zero to Professional'</a> - 2019-10-27</li>
+<li><a href="https://www.udemy.com/certificate/UC-1a5aa01f-2ecf-473b-ab77-a2ba8501dd68/
+">Udemy Course 'Angular from Zero to Professional'</a> - 2020-04-27</li>
+<li><a href="https://www.udemy.com/certificate/UC-0eb5da3f-6497-42b7-b11f-25221aef94e5">Udemy Course Vue - The Complete Guide (incl. Router & Composition API)</a> - 2022-12-20</li>
+<li><a href="https://www.udemy.com/certificate/UC-60dcc506-9bf2-47ca-a04e-58b76d2a7996">Udemy Course The Complete JavaScript Course 2021: From Zero to Expert! </a> - 2021-03-11</li>
+<li><a href="https://www.udemy.com/certificate/UC-34b7056e-2b60-4b54-b975-fc05fc38003c">Udemy Course 'Framework Vue.js. Full guide for web development'</a> - 2020-10-30</li>
+<li><a href="https://www.udemy.com/certificate/UC-04ae095a-134d-405f-9985-2dfb1125064d">Udemy Course "Preprocessors SASS and LESS" </a> - 2020-10-03</li>
+<li><a href="https://www.udemy.com/certificate/UC-f2660a29-89cb-4905-bffa-a2c4731a8e0f">Udemy Course "Advanced CSS and Sass"</a> - 2020-09-29</li>
+</ul>
 <hr> 
 <h5 align="center">Contributions:</h5>
 <p align="center"> 
